@@ -114,6 +114,12 @@ export const PORTFOLIO_DATA = {
         link: "#",
         tech: ["React.js", "Firebase"],
         description: "Travel website promoting destinations and packages, built with Firebase and dynamic content modules."
+    },
+    {
+        title: "Multi-Tenant CMS Platform",
+        link: "http://cms.mzaid.site/login",
+        tech: ["React.js", "Node.js", "PostgreSQL", "Multi-Tenant Architecture"],
+        description: "Enterprise CMS system with multi-tenant SaaS architecture managing contractor CRM. Features per-company subdomain isolation, separate databases for each tenant, client management workflows, and full administrative control panel."
     }
   ],
   education: {
